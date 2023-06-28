@@ -4,7 +4,7 @@
 
 
 ## Introduction
-In this project, I cleaned, analysed and visualised the dataset containing Aetherex(A fictional Egyptian company) sales and promotional cost recorded in 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised pivot tables to section the data and then efficent visualised of the analysed. This is the breakdown of the flow of the project. 
+In this project, I cleaned, analysed and visualised the dataset containing Aetherex(A fictional Egyptian company) sales and promotional cost recorded in 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised pivot tables to section the data and then efficent visualised of the analysis. This is the breakdown of the flow of the project. 
 
 ## Data Used
 
