@@ -4,36 +4,42 @@
 
 
 ## Introduction
-In this project, I cleaned, analysed and visualised the dataset containing road accidents recorded in the United Kingdom from 2021 to 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised used Power BI to create measures, which i used in efficent visualisation of the analysed data. This is the breakdown of the flow of the project. 
+In this project, I cleaned, analysed and visualised the dataset containing Aetherex(A fictional Egyptian company) sales and promotional cost recorded in 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised pivot tables to section the data and then efficent visualised of the analysed. This is the breakdown of the flow of the project. 
 
 ## Data Used
 
-**Data -** Road accidents in United Kingdom data with over 300,000 rows from 2021 to 2022.
+**Data -** Aetherex sales and promotional cost for the year 2022.
 
-**Data Cleaning & Analysis -** Microsoft Excel
+**Data Cleaning & Analysis -** Microsoft Excel.
 
-**Data Visualisation -** Microsoft PowerBI
+**Data Visualisation -** Microsoft Excel.
 
 ## Questions
 
-1. What is the overall trend in the number of road accidents over the years?
-2. Which geographic locations or areas have the highest number of road accidents?
-3. Are there any patterns or trends in the types of vehicles involved in accidents?
-4. Is there a correlation between certain weather conditions (e.g., rain, fog) and the occurrence of accidents?
-5. Can we identify any hotspot areas where accidents are more concentrated?
-6. Are there any notable differences in accident patterns between urban and rural areas?
-7. Are there any particular road types or conditions that are associated with a higher frequency of accidents?
-8. What is the distribution of accident severity levels (e.g., minor, moderate, severe) in the dataset?
+1. What is the overall trend in sales over the specified time period?
+2. What are the average paid calls duration by months?
+3. What is the trend, total sum and average of enrolled courses?
+4. What is the total sales by sales team?
+5. What is the revenue breakdown by area code?
+6. What is the advertising campaign by total sales?
+7. What is the count and percentage of paid and unpaid calls?
+8. What are the top consultants by sales revenue?
+
 
 ## Findings
 
-- There are more accidents in Urban areas.
-- Cars had the highest accidents (155,804) while Agro Vehicles had the lowest (399).
-- 2022 had a reduced amount of accidents in comparison to 2021.
-- 73.84% of accidents in the UK happen during the day.
-- There only 2855 fatal casualties in 2022 which was a 33.3% decrease from 2021.
-- Single Carriageway had the highest occurrences of accidents by road type.
+- Total earnings amounted to 15.9 billion.
+- The highest sales(3.8B) was recorded in October, whie the lowest(116M) was in March.
+- B12 had the highest sales by area code.
+- Mohmed, Rony, Hany, Dary, Kisho are the top 5 consultants by sales.
+- 2643 courses were enrolled.
+- Mohammed made sales totalling 5.4B, making him the top salesman.
+- Television Ad brought the highest amount of sales (4.6B).
+- 75% of the calls were paid (926).
+- Using training models, GK had the highest revenue, genrating 10.6 billion.
 
 ## Conclusions
 
-Cleaning and analysing this dataset was a rewarding experience. This project has not only deepened my understanding of road safety but also allowed me to enhance my analytical skills. Exploring seasonal variation, identifying intersection hotspots, analyzing driver distraction and speeding trends, addressing vulnerabilities of road users, and studying nighttime accidents have sharpened my ability to extract meaningful patterns from complex datasets. This project showcased my ability to efficently clean and analyse datasets involving real-world challenges.
+the analysis of Aetherex's sales performance data provided valuable insights into trends, product categories, and sales channels. These findings contribute to a better understanding of the company's sales dynamics, enabling informed decision-making and the formulation of effective strategies to drive revenue growth and optimize sales efforts.
+
+This project aided the enhancement of my analytical skills, specifically my excel skills, I expanded my knowledge and usage of pivot tables, icons, charts, hyperlinks and buttons, etc. It furthered my ability to analyze complex datasets and discover meanungful insights for decison making.
